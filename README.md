@@ -78,6 +78,18 @@
 
 
 ### 🎓 Тестовые артефакты:
+Ниже будут представлены все мои практические работы, выполненные за время обучения.
+<ul>
+<li><a href="https://github.com/ozlovsky/testing_theory">Теория тестирования</a> – основана на ISTQB Базового уровня</li>
+<li><a href="https://github.com/ozlovsky/test_design">Тест-дизайн</a> – применяю различные техники тест-дизайна на практике</li>
+<li><a href="https://github.com/ozlovsky/test_documentation">Тестовая документация</a> – создание и работа с чек-листом и тест-кейсами</li>
+<li><a href="https://github.com/ozlovsky/web_application_testing">Тестирование Веб-приложений</a> – использование DevTools. Отчеты о дефектах</li>
+<li><a href="https://github.com/ozlovsky/api_testing">Тестирование API</a> – использование Postman. Форматы, Swagger, Автотесты</li>
+<li><a href="https://github.com/ozlovsky/working_with_data">Работа с данными</a> – основы работы с БД и СУБД</li>
+<li><a href="https://github.com/ozlovsky/mobile_app_testing">Тестирование мобильных приложений</a> – чек-листы, тест-кейсы, перехват трафика через Charles Proxy</li>
+<li><a href="https://github.com/ozlovsky/working_with_git_and_bash">Работа с Git и Bash</a> – основы интерфейса командой строки (CLI). Учусь работать с одной из разновидностей командных оболочек для UNIX-подобных систем</li>
+</ul>
+
 
 
 ---
